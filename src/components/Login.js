@@ -16,7 +16,7 @@ const Login = (props) => {
         </CTA>
         <BgImage />
       </Content>
-    </Container>
+    </Container> 
   );
 };
 

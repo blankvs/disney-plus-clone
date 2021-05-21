@@ -22,7 +22,7 @@ const NewDisney = (props) => {
       </Content>
     </Container>
   );
-};
+}; 
 
 const Container = styled.div`
   padding: 0 0 26px;
